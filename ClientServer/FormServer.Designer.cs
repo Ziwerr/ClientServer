@@ -81,9 +81,9 @@
             // 
             // btnStart
             // 
-            this.btnStart.Location = new System.Drawing.Point(447, 30);
+            this.btnStart.Location = new System.Drawing.Point(486, 38);
             this.btnStart.Name = "btnStart";
-            this.btnStart.Size = new System.Drawing.Size(92, 52);
+            this.btnStart.Size = new System.Drawing.Size(117, 36);
             this.btnStart.TabIndex = 5;
             this.btnStart.Text = "Start";
             this.btnStart.UseVisualStyleBackColor = true;
@@ -91,9 +91,9 @@
             // 
             // btnStop
             // 
-            this.btnStop.Location = new System.Drawing.Point(545, 31);
+            this.btnStop.Location = new System.Drawing.Point(609, 38);
             this.btnStop.Name = "btnStop";
-            this.btnStop.Size = new System.Drawing.Size(92, 52);
+            this.btnStop.Size = new System.Drawing.Size(106, 36);
             this.btnStop.TabIndex = 6;
             this.btnStop.Text = "Stop";
             this.btnStop.UseVisualStyleBackColor = true;
@@ -112,7 +112,7 @@
             this.Controls.Add(this.textPort);
             this.Controls.Add(this.textIP);
             this.Name = "FormServer";
-            this.Text = "Form1";
+            this.Text = "Server";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -121,7 +121,7 @@
             this.Controls.Add(this.textPort);
             this.Controls.Add(this.textIP);
             this.Name = "FormClient";
-            this.Text = "Form1";
+            this.Text = "Client";
             this.ResumeLayout(false);
             this.PerformLayout();
 
